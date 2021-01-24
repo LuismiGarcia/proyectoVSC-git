@@ -6,6 +6,7 @@
     <meta name="viewport"
     <title>Inicio</title>
     <link rel="stylesheet" href="estilo.css" type="text/css"/>
+    <meta name="author" content="Luismi Garcia">
 </head>
 
 
