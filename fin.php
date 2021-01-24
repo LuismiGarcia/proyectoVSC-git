@@ -13,7 +13,7 @@ else
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Document</title>
+    <title>Fin juego</title>
     <link rel="stylesheet" href="estilo.css" type="text/css"/>
 </head>
 <body>
